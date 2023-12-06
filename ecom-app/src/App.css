@@ -1,0 +1,9 @@
+.select-par .css-1u9des2-indicatorSeparator {
+  display: none !important;
+}
+.dropShadow{
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.hidescroll::-webkit-scrollbar {
+  display: none;
+}
